@@ -13,3 +13,5 @@
 <!-- [5] [Spectral Clustering: A Tutorial](https://www.cs.umd.edu/~mount/Projects/SpectralClustering/) -->
 
 [5] [CSE601 Spectral Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf)
+
+[6] https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/L10.pdf
